@@ -8,7 +8,7 @@ Here at Adelade Hills School Of Music we teach a variety of diffrent instruments
 - doubble bass
 We also have a number of teachers that are all qualified in this trade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
