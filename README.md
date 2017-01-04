@@ -1,6 +1,6 @@
 ## Welcome to Adelade Hills School Of Music
 
-You can use the [editor on GitHub](https://github.com/Chesterphobicas/AdelaideHillsSchoolOfMusic/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here at Adelade Hills School Of Music we teach a variety of diffrent instruments including: Guitar, voice, piano, drums and doubble bass. We also have many teachers that are all qualified. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
