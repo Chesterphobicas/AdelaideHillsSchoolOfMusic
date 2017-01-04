@@ -3,19 +3,16 @@
 Here at Adelade Hills School Of Music we teach a variety of diffrent instruments including: 
 - Guitar
 - voice
-- piano                                                                               ##ALL AGES WELCOME!!!
+- piano
 - drums
 - doubble bass
 We also have a number of teachers that are all qualified in this trade.
 
+##ALL AGES WELCOME
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
